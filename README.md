@@ -5,3 +5,4 @@ new info
 haha
 sdfjlskdfj
 success
+error
